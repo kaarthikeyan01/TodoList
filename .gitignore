@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Build artifacts
+/build/
+/dist/
+
+# Parcel cache
+.parcel-cache/
+
+# IDE files (VS Code, IntelliJ IDEA, etc.)
+.vscode/
+.idea/
+
+# Logs and debugging files
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Ignore local configuration
+*.env.local
